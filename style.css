@@ -70,7 +70,7 @@ margin: 8px;
        content: '';
        border-radius: 50%;
        background-size: cover;
-       background-image: url('/to-do-list/unchecked.png');
+       background-image: url('/to-do-list/my-to-do-list/unchecked.png');
        height: 30px;
        width: 30px;
        position: absolute;
@@ -90,7 +90,7 @@ margin: 8px;
    padding: 10px;
   }
   .task_list .list .checked::before{
-   background-image: url(/to-do-list/checked.png);
+   background-image: url(/to-do-list/my-to-do-list/checked.png);
    
 
   }
